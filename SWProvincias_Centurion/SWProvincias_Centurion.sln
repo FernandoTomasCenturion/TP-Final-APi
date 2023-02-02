@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWProvincias_Apellido", "SWProvincias_Apellido\SWProvincias_Apellido.csproj", "{43800491-AC5A-45F6-B755-26972018F89D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWAdventureWorks_Apellido", "SWAdventureWorks_Apellido\SWAdventureWorks_Apellido.csproj", "{4BAB1586-684F-4F19-BE8E-BE6904D1E241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43800491-AC5A-45F6-B755-26972018F89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43800491-AC5A-45F6-B755-26972018F89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43800491-AC5A-45F6-B755-26972018F89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43800491-AC5A-45F6-B755-26972018F89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAB1586-684F-4F19-BE8E-BE6904D1E241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAB1586-684F-4F19-BE8E-BE6904D1E241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAB1586-684F-4F19-BE8E-BE6904D1E241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAB1586-684F-4F19-BE8E-BE6904D1E241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782816D2-5205-4994-A40B-AD7C03771E3A}
+	EndGlobalSection
+EndGlobal
